@@ -1,0 +1,5 @@
+{
+  "name": "Excel Link Manager",
+  "description": "An intelligent tool to analyze Excel records, map them to local files within 'Ponto' folders, and generate portable hyperlinks automatically.",
+  "requestFramePermissions": []
+}
