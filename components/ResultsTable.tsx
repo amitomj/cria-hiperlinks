@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { AnalysisResult, FileNode } from '../types';
-import { CheckCircle, AlertTriangle, XCircle, Wand2, Filter, Copy, Check, FileWarning, EyeOff, Eye, Search, Plus, X, FolderCheck, Save } from 'lucide-react';
+import { CheckCircle, AlertTriangle, XCircle, Wand2, Filter, Copy, Check, FileWarning, EyeOff, Eye, Search, Plus, X, FolderCheck } from 'lucide-react';
 
 interface Props {
   results: AnalysisResult[];
